@@ -38,6 +38,7 @@ FOR EACH ROW
 BEGIN
    -- Instrucciones SQL
 END;
+```
 
 ---
 
